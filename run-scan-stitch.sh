@@ -1,14 +1,13 @@
 #! /bin/sh
-# hugin command tools script to stitch scanned images, fov unknown
-# use of fov >= 10 should be OK, could simply set FOV=10
-# Terry Duell 2013, 2014
-
-# usage...run-scan-pto_var.sh outputprefix fov
+# Hugin command tools script to stitch scanned images, fov unknown
+# try FOV values between 1 and 10
+# usage...run-scan-pto_var.sh outputprefix fov suffix.jpg
+# TODO: Add flags, and help commands to better handle argvs
 
 # Get the output file prefix
 Prefix=$1
 
-# Get the fov (field-of-view) - Try a value of 1 first
+# Get the fov (field-of-view)
 FOV=$2
 
 # Scans wildcard without asterisk e.g. ".jpg"
