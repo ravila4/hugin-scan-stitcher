@@ -18,5 +18,5 @@ Run in a folder with scanned images.
 The FOV parameter is unknown, but values between 1-10 worked well in my experiments.
 
 ## To Do
-- [ ] An option to crop or not crop the final image
+- [ ] Add option to crop or not crop the final image
 - [ ] Pass arguments with flags for a better interface
