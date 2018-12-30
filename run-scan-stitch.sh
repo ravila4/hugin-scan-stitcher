@@ -1,7 +1,7 @@
 #! /bin/sh
 # Hugin command tools script to stitch scanned images, fov unknown
 # try FOV values between 1 and 10
-# usage...run-scan-pto_var.sh outputprefix fov suffix.jpg
+# Usage: ./run-scan-stitch.sh outputprefix fov suffix.jpg
 # TODO: Add flags, and help commands to better handle argvs
 
 # Get the output file prefix
