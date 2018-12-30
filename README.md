@@ -1,4 +1,4 @@
-#hugin-scan-stitcher
+# hugin-scan-stitcher
 A script for stitching scanned art/documents with Hugin. Borrowed and modified from: http://hugin.sourceforge.net/tutorials/scans/en.shtml
 
 It has been modified from the original to use hugin_executor instead of pto2make, which is no longer shipped with Hugin
