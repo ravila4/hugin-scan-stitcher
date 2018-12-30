@@ -15,4 +15,4 @@ Run in a folder with scanned images.
 # Example:
 ./run-scan-stitch.sh merged 10 .tif
 ```
-The FOV parameter is unknown, but values between 1 and 10 worked well in my experiments.
+The FOV parameter is unknown, but values between 1-10 worked well in my experiments.
